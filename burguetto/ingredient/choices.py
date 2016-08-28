@@ -1,0 +1,6 @@
+SECTION = (
+	('BREAD' , 'BREAD'),
+	('PROTEIN', 'PROTEIN'),
+	('VEGETABLE', 'VEGETABLE'),
+	('CHEESE', 'CHEESE')
+)
