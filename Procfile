@@ -1,1 +1,0 @@
-web: gunicorn burguetto.config.wsgi --log-file -
