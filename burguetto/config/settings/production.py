@@ -3,7 +3,7 @@ from base import *
 import environ
 env = environ.Env() 
 
-DEBUG = False
+#DEBUG = False
 
 SECRET_KEY = env("DJANGO_SECRET_KEY")
 
