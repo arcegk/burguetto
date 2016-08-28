@@ -1,7 +1,7 @@
 from base import *
-import environ
 
-env = environ.Env()
+import environ
+env = environ.Env() 
 
 DEBUG = False
 
